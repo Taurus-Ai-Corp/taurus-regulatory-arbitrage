@@ -1,60 +1,73 @@
-MIT License
+# TAURUS AI Corp - Multi-License Agreement
 
-Copyright (c) 2024 Regulatory Arbitrage Intelligence Community
+Copyright (c) 2024-2025 TAURUS AI Corp. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## License Overview
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This software is available under multiple license tiers. Your use of this software
+is governed by the license tier applicable to your use case:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+### Tier 0: MIT License (Core Components)
+Basic utilities, documentation, and examples are available under the MIT License.
+See `LICENSE-MIT.md` for full terms.
 
----
+### Tier 1: FSL (Functional Source License) - Community
+Community packages with non-commercial use rights. Converts to MIT after 2 years.
+See `LICENSE-FSL.md` for full terms.
 
-## Additional Terms for Regulatory Arbitrage Intelligence Platform
+### Tier 2: BSL (Business Source License) - Professional
+Professional packages with commercial use rights and usage limitations.
+Converts to MIT after 3 years.
+See `LICENSE-BSL.md` for full terms.
 
-### Commercial Use
-This software is designed to enable entrepreneurs to build commercial regulatory 
-arbitrage consulting businesses. Commercial use is explicitly permitted and 
-encouraged under this MIT license.
+### Tier 3: Commercial License - Enterprise
+Full commercial rights with dedicated support and custom SLAs.
+Contact: licensing@taurusai.io
+See `LICENSE-COMMERCIAL.md` for full terms.
 
-### Regulatory Compliance
-Users are responsible for ensuring compliance with all applicable laws and 
-regulations in their jurisdictions. This software provides tools and information 
-but does not constitute legal advice.
+### Tier 4: White-Label / OEM License
+Full white-label and reseller rights for partners.
+Contact: partners@taurusai.io
+See `LICENSE-WHITE-LABEL.md` for full terms.
 
-### Contribution Guidelines
-By contributing to this project, contributors agree that their contributions 
-will be licensed under the same MIT license. All contributions should support 
-the mission of democratizing regulatory arbitrage opportunities.
+## Quick Reference
 
-### Data Sources
-This project may include publicly available regulatory information. Users are 
-responsible for verifying the accuracy and currency of all regulatory data 
-before making business decisions.
+| Use Case | License | Cost |
+|----------|---------|------|
+| Personal/Learning | FSL | Free |
+| Open Source Projects | FSL | Free |
+| Startups (<$100K revenue) | FSL | Free |
+| Commercial (Small) | BSL | $99-299/mo |
+| Commercial (Enterprise) | Commercial | $999-4,999/mo |
+| White-Label/OEM | OEM | Custom |
 
-### Liability Limitation
-The regulatory information and tools provided are for educational and business 
-development purposes. Users assume all risks associated with business decisions 
-made using this platform.
+## Default License
 
-### Attribution
-While not required by the MIT license, attribution to the Regulatory Arbitrage 
-Intelligence Community is appreciated when using substantial portions of this 
-work in commercial applications.
+Unless otherwise specified, the default license for this repository is:
+**Functional Source License (FSL) 1.1 with MIT Future License**
 
----
+This means:
+- ✅ Free for non-commercial use
+- ✅ Free for personal projects
+- ✅ Free for open source contributions
+- ✅ Becomes MIT licensed after 2 years
+- ❌ Commercial use requires a paid license
 
-For questions about licensing or commercial partnerships, contact:
-hello@regulatory-arbitrage.org
+## Contributing
+
+By contributing to this project, you agree to our Contributor License Agreement (CLA).
+See `CLA-INDIVIDUAL.md` or `CLA-CORPORATE.md` in the docs/licensing directory.
+
+## Contact
+
+- Licensing: licensing@taurusai.io
+- Enterprise Sales: sales@taurusai.io
+- Partnerships: partners@taurusai.io
+- General: admin@taurusai.io
+
+## Links
+
+- Website: https://taurusai.io
+- Documentation: https://docs.taurusai.io
+- GitHub: https://github.com/Taurus-Ai-Corp
+- Sponsor: https://github.com/sponsors/Taurus-Ai-Corp
