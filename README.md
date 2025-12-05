@@ -1,3 +1,9 @@
+<!-- TAURUS AI Badges -->
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Taurus-Ai-Corp?style=flat-square&logo=github&color=EA4AAA)](https://github.com/sponsors/Taurus-Ai-Corp)
+[![License](https://img.shields.io/badge/License-FSL%201.1-blue?style=flat-square)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-taurusai.io-green?style=flat-square)](https://taurusai.io)
+<!-- /TAURUS AI Badges -->
+
 # 🌐 Regulatory Arbitrage Intelligence Platform
 
 > **The World's First Open-Source Regulatory Arbitrage Intelligence System**
@@ -222,3 +228,18 @@ Follow our [30-Day Revenue Guide](06-DOCUMENTATION/business-guides/30-day-revenu
 ---
 
 *Built with ❤️ by the global regulatory arbitrage community*
+
+---
+
+## 💖 Support This Project
+
+If you find this project useful, please consider sponsoring:
+
+[![Sponsor TAURUS AI](https://img.shields.io/badge/Sponsor-TAURUS%20AI-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Taurus-Ai-Corp)
+
+Your sponsorship helps us maintain and improve our open-source projects.
+
+---
+
+**TAURUS AI Corp** | [Website](https://taurusai.io) | [GitHub](https://github.com/Taurus-Ai-Corp) | [Contact](mailto:admin@taurusai.io)
+
